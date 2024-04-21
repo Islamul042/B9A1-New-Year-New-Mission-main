@@ -1,0 +1,16 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* .banner-section{
+    background-image: url('../image/Banner\ Image.png');
+ 
+
+} */
+
+.banner-img {
+    padding: 21px 355px 11px 355px;
+    max-width: 1300px;
+    max-height: 600px;
+}
