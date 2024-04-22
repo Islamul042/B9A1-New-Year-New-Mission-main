@@ -45,6 +45,42 @@
     color: #070211;
     margin-bottom: 41px;
 }
-.happy-new-year-img{
-   
+.new-year-banner{
+    max-width: 1320px;
+    max-height: 613px;
+    margin-bottom: 36px;
+    background-color: yellow;
 }
+.vector-img {
+    padding: 21px 355px 11px 355px;
+    max-width: 1300px;
+    max-height: 600px;
+    position: absolute;
+    background-image: linear-gradient(black);
+}
+.vector-title {
+    position: absolute;
+    margin: 176px 31px -37px 445px;
+    color: white;
+    font-size: 92px;
+    max-width: 47%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vector-des {
+    position: absolute;
+    margin: 409px 31px -37px 445px;
+    color: #D4CFD2;
+    font-size: 22px;
+    max-width: 38%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-primary {
+    position: absolute;
+    margin: 512px 32px -37px 476px;
+    font-size: 39px;
+    border: none;
+    background: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
