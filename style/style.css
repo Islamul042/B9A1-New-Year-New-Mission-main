@@ -3,14 +3,48 @@
     margin: 0px;
     padding: 0px;
 }
-/* .banner-section{
-    background-image: url('../image/Banner\ Image.png');
- 
-
-} */
+.banner-section {
+    max-width: 1320px;
+    max-height: 613px;
+    margin-bottom: 36px;
+}
 
 .banner-img {
     padding: 21px 355px 11px 355px;
     max-width: 1300px;
     max-height: 600px;
+}
+
+.offer-new-year {
+    /* background-color: yellow; */
+    max-width: 802px;
+    max-height: 809px;
+    margin: 0 auto;
+}
+
+.new-yaear-off {
+    color: #FF0000;
+    text-align: center;
+    font-size: 57px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 4px;
+}
+
+.all-deals {
+    text-align: center;
+    margin-top: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all-deals .deals-des {
+    color: #FF0000;
+    font-size: 13px;
+}
+.all-deals .categories {
+    font-size: 27px;
+    margin-top: 11px;
+    color: #070211;
+    margin-bottom: 41px;
+}
+.happy-new-year-img{
+   
 }
