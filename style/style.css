@@ -48,3 +48,74 @@
     height: 522px;
     padding-top: 36px;
 }
+
+.vector-image{
+    position: absolute;
+}
+
+.welcome-part {
+    margin: 91px auto;
+    background-image: url('../image/Vectorrr.png');
+    padding: 292px;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+}
+.welcome-details {
+    color: aliceblue;
+    max-width: 50%;
+    padding-left: 131px;
+    font-family: sans-serif;
+    padding-top: -14px;
+}
+
+.welcome-details h2 {
+    font-size: 81px;
+    max-width: 89%;
+    padding-top: -43px;
+    margin-top: -58px;
+}
+
+.welcome-details p {
+    padding-top: 20px;
+    line-height: 29px;
+    padding-bottom: 27px;
+}
+
+.btn-hero {
+    font-size: 20px;
+    border: none;
+    background-color: unset;
+    color: #F0F8FF;
+    padding-left: 42px;
+    font-weight: bold;
+}
+
+.party-schedule {
+    background-color: #FFEEEE;
+    max-width: 1320px;
+    max-height: 482px;
+    margin: 0 auto;
+    align-items: center;
+    padding-top: 91px;
+    padding-bottom: 69px;
+}
+.party-time-date {
+    text-align: center;
+    font-size: 22px;
+    line-height: 51px;
+    font-family: sans-serif;
+}
+.btn-hero-new {
+    padding: 14px;
+    border-radius: 16px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    font-weight: bolder;
+    border-color: #FF0000;
+    margin-top: 50px;
+}
+
+.span-color{
+    color: #FF0000;
+}
