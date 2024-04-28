@@ -349,3 +349,51 @@
     text-align: right;
     font-size: 12px;
 }
+
+.footer-section {
+    background: #070211;
+    padding-top: 66px;
+    padding-left: 270px;
+    padding-right: 303px;
+    color: #FFFF;
+    font-family: sans-serif;
+    padding-bottom: 151px;
+    margin-top: -294px;
+}
+
+.footer-section-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-side-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-call-web{
+    width: 83%;
+}
+.footer-address{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.social-logo {
+    display: flex;
+    align-items: center;
+    margin-left: 560px;
+    padding-top: 48px;
+    gap: 10px;
+    padding-bottom: 38px;
+}
+
+.all-right-reserved{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.hr-part {
+    margin-top: 30px;
+}
